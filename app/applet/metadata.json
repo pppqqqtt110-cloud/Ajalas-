@@ -1,0 +1,6 @@
+{
+  "name": "MYRA ULTRA",
+  "description": "Advanced AI Assistant with dual visual faces, autonomous Android device control via Accessibility, and intelligent workspace automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

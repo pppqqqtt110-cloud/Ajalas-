@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Arc Reactor Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-28,0a28,28 0 1,1 56,0a28,28 0 1,1 -56,0"
+        android:strokeWidth="2.5"
+        android:strokeColor="#00E5FF" />
+    <!-- Secondary Dashed/Segmented Neon Ring -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M54,54m-22,0a22,22 0 1,1 44,0a22,22 0 1,1 -44,0"
+        android:strokeWidth="1.5"
+        android:strokeColor="#FF007F" />
+    <!-- Glowing Orbital Nodes -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M54,26m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0
+                          M54,82m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0
+                          M26,54m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0
+                          M82,54m-2.5,0a2.5,2.5 0 1,1 5,0a2.5,2.5 0 1,1 -5,0" />
+    <!-- Inner Core Hexagon / Shield -->
+    <path
+        android:fillColor="#151A2E"
+        android:pathData="M54,38 L68,46 L68,62 L54,70 L40,62 L40,46 Z"
+        android:strokeWidth="1.5"
+        android:strokeColor="#7C4DFF" />
+    <!-- Stylized "M" Quantum Neural Crest -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M44,61 L44,47 L54,55 L64,47 L64,61"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:strokeColor="#00F0FF" />
+    <!-- Central Pulse Dot -->
+    <path
+        android:fillColor="#FF007F"
+        android:pathData="M54,55m-2,0a2,2 0 1,1 4,0a2,2 0 1,1 -4,0" />
+</vector>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MYRA ULTRA</string>
+    <string name="accessibility_service_label">MYRA ULTRA Device Assistant</string>
+    <string name="accessibility_service_description">Authorizes MYRA ULTRA to assist with authorized Android control actions, UI reading for AI, app navigation, and automation.</string>
+</resources>
